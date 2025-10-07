@@ -17,13 +17,15 @@ export const PT_BR = {
   auth: {
     login: 'Entrar',
     logout: 'Sair',
-    email: 'guiverdoodt92@gmail.com',
-    password: 'admin123',
+    email: 'E-mail',
+    password: 'Senha',
     president: 'Presidente',
     firstCounselor: '1º Conselheiro',
     secondCounselor: '2º Conselheiro',
     selectRole: 'Selecione seu chamado',
     welcome: 'Bem-vindo',
+    continueWithGoogle: 'Continuar com Google',
+    or: 'OU',
   },
   dashboard: {
     title: 'Painel de Controle',
